@@ -69,9 +69,3 @@ Kunal Mukhi
 ````
 
 
-### ChatGPT Plugins
-
-1. webpilot
-````
-請介紹台灣的輿情分析公司?
-````
