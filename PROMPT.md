@@ -45,8 +45,9 @@ We are keen to send you a list of potential investors you should be talking to!
 
 Would you like me to help you and send some ideas?
 Let's have a quick call to walk you through how we are working with startups around the globe in delivering them meetings with the investors and also helping them set up the entire investor data room.
---Regards,Kunal Mukhi
 
+Regards,
+Kunal Mukhi
 ````
 
 #### 7. P.91 專案規劃
