@@ -171,6 +171,13 @@ How would you like ChatGPT to respond?
 ````
 
 5. 多個Plugins 進行搭配使用
+````
+I'd like to do a news monitoring on [NVIDIA], and you're going to help me by carrying out the
+following steps:
+1. Identify trending topics in this area
+2. Write an article covering each topic
+3. Make an audio version of this article
+````
 
 ### 撰寫爆款文案
 
