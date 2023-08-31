@@ -20,3 +20,22 @@
 ### Bard
 - https://bard.google.com/
 
+### AutoGPT
+- https://github.com/Significant-Gravitas/Auto-GPT
+
+### BabyAGI
+- https://github.com/yoheinakajima/babyagi
+
+### OpenAGI
+- https://github.com/agiresearch/OpenAGI
+
+### AgentGPT
+- https://agentgpt.reworkd.ai/
+
+### MetaGPT
+- https://github.com/geekan/MetaGPT
+
+### WizardCoder
+- https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GGML
+
+
