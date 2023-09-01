@@ -20,6 +20,7 @@
 ### Bard
 - https://bard.google.com/
 
+## AI Agent
 ### AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
 
@@ -37,5 +38,14 @@
 
 ### WizardCoder
 - https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GGML
+
+## NO-CODE APP BUILDER
+### Bubble
+- https://bubble.io/
+
+### SoftR
+- https://www.softr.io/
+- 
+  
 
 
