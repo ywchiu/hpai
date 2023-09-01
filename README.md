@@ -45,7 +45,16 @@
 
 ### SoftR
 - https://www.softr.io/
-- 
+
+## 強化學習範例
+- https://colab.research.google.com/drive/1ywcATfqrSgo-tUnrnmdJ4wEDRdqJRTS6?usp=sharing
+
+## ChatGPT API 範例
+- https://colab.research.google.com/drive/1DD5sMFIzA69Z20Zr1kBebURVSFrzK99D?usp=sharing
+
+## LangChain 範例
+- https://colab.research.google.com/drive/1HeUSXUCaJ9RH2UTBKhTufjPPGrTflhAR?usp=sharing
+
   
 
 
