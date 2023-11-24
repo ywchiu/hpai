@@ -26,6 +26,9 @@
 ## Open Interpreter
 - https://github.com/KillianLucas/open-interpreter
 
+## llama2 
+- https://github.com/ywchiu/largitdata/blob/master/code/Course_228.ipynb
+
 ## AI Agent
 ### AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
