@@ -20,6 +20,9 @@
 ### Bard
 - https://bard.google.com/
 
+## Assitant API 範例
+- https://colab.research.google.com/drive/1NF_5bKg5vgj4jNs3q-GUCHPzA9fJmvdb#scrollTo=RMfyqDWZsKdC
+
 ## AI Agent
 ### AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
