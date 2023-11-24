@@ -23,6 +23,9 @@
 ## Assitant API 範例
 - https://colab.research.google.com/drive/1NF_5bKg5vgj4jNs3q-GUCHPzA9fJmvdb#scrollTo=RMfyqDWZsKdC
 
+## Open Interpreter
+- https://github.com/KillianLucas/open-interpreter
+
 ## AI Agent
 ### AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
