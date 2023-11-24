@@ -1,5 +1,8 @@
 # AI 提升工作效能實戰課程-從 ChatGPT 到 AIGC 的應用與實踐
 
+## Demo20231124
+- https://colab.research.google.com/drive/1ZArgRPr5IohylRLljH0DsIeRyMt-vn-u?usp=sharing
+- 
 ## 基本提示詞
 - https://github.com/ywchiu/hpai/blob/main/PROMPT.md
 
