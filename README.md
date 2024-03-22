@@ -6,11 +6,16 @@
 ## Demo20231124
 - https://colab.research.google.com/drive/1ZArgRPr5IohylRLljH0DsIeRyMt-vn-u?usp=sharing
 
-## 基本提示詞
+## 提示詞工程
+
+### 基本提示詞
 - https://github.com/ywchiu/hpai/blob/main/PROMPT.md
 
-## 進階提示詞
+### 進階提示詞
 - https://github.com/ywchiu/hpai/blob/main/ADVANCED_PROMPT.md
+
+### gpt-prompt-engineer
+- https://github.com/mshumer/gpt-prompt-engineer
 
 ## 大型語言模型
 
