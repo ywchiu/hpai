@@ -17,6 +17,9 @@
 ### gpt-prompt-engineer
 - https://github.com/mshumer/gpt-prompt-engineer
 
+### 摘要
+- https://twitter.com/dotey/status/1770490238739083485
+
 ## 大型語言模型
 
 ### ChatGPT
