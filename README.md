@@ -23,8 +23,8 @@
 ### Claude
 - https://claude.ai/chats
 
-### Bard
-- https://bard.google.com/
+### Gemini
+- https://gemini.google.com/
 
 ## Assitant API 範例
 - https://colab.research.google.com/drive/1NF_5bKg5vgj4jNs3q-GUCHPzA9fJmvdb#scrollTo=RMfyqDWZsKdC
@@ -35,7 +35,11 @@
 ## llama2 
 - https://github.com/ywchiu/largitdata/blob/master/code/Course_228.ipynb
 
-## AI Agent
+## AI Agent 補充資料
+
+### MetaGPT
+- https://github.com/geekan/MetaGPT
+
 ### AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
 
@@ -47,9 +51,6 @@
 
 ### AgentGPT
 - https://agentgpt.reworkd.ai/
-
-### MetaGPT
-- https://github.com/geekan/MetaGPT
 
 ### WizardCoder
 - https://huggingface.co/TheBloke/WizardCoder-15B-1.0-GGML
